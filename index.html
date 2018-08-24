@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script type="text/javascript">
+  window.onload = function() {
+    // Deep link to your app goes here
+    document.getElementById("l").src = "rentlymanager://installer/";
+
+    setTimeout(function() {
+      // Link to the App Store should go here -- only fires if deep link fails
+      //window.location = "https://itunes.apple.com/us/app/my.app/id123456789?ls=1&mt=8";
+    }, 500);
+  };
+</script>
+<iframe id="l" width="1" height="1" style="visibility:hidden"></iframe>
+Rently Manager <a href="rentlymanager://installer/ca07483102d61fce7a212c108b309e98fc6bd16a574554d57c9d8ec0ccca0b4e">Installer</a>
+</body>
+</html>
