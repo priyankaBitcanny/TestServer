@@ -19,8 +19,8 @@ const str2 =
   '<iframe id="l" width="1" height="1" style="visibility:hidden"></iframe>' +
   '<body>' +
   '<br/>Rently Manager <a href="rentlymanager://installer/ce9f0396b5d6e7bdc1689591fb77381025b34932b76e98574e43f5cfa1da0c97">Installer</a>' +
-  '<br/><br/>Firebase <a' +
-  ' href="https://managerapp.page.link/installer">Installer</a>' +
+  '<br/><br/>Firebase Dynamic Link <a' +
+  ' href="https://managerapp.page.link/?link=https://managerapp.page.link/?link%3Dhttp://rently.rentlyblack.com/installer/aaaaaaaaa/%26apn%3Dcom.rently.app%26ibi%3Dcom.rently.manager&apn=com.rently.app&isi=965126783&ibi=com.rently.manager">https://managerapp.page.link/installer</a>' +
   '</body>' +
   '</html>'
 ;
