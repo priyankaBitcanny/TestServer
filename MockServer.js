@@ -19,13 +19,21 @@ const str2 =
   '<iframe id="l" width="1" height="1" style="visibility:hidden"></iframe>' +
   '<body>' +
   '<br/>Rently Manager <a href="rentlymanager://installer/ce9f0396b5d6e7bdc1689591fb77381025b34932b76e98574e43f5cfa1da0c97">Installer</a>' +
-  '<br/><br/>Firebase Dynamic Link <br/><a' +
-  ' href="https://managerapp.page.link/' +
-  '?link=https://managerapp.page.link/?link%3Dhttp://installer/ce9f0396b5d6e7bdc1689591fb77381025b34932b76e98574e43f5cfa1da0c97/%26apn%3Dcom.rently.app%26ibi%3Dcom.rently.manager' +
+
+
+  '<br/><br/>' +
+
+  'Firebase Dynamic Link 1<br/><a' +
+  ' href="https://rentlymanager.page.link/' +
+  '?link=https://rentlymanager.page.link/?link%3Dhttp://www.rentlymanager.com/installer/ce9f0396b5d6e7bdc1689591fb77381025b34932b76e98574e43f5cfa1da0c97/%26apn%3Dcom.rently.app%26ibi%3Dcom.rently.manager' +
   '&apn=com.rently.app&isi=965126783' +
-  '&ibi=com.rently.manager">https://managerapp.page.link/installer</a>' +
-  '<br/><br/>Firebase Dynamic Link Test <br/><a' +
-  ' href="https://managerapp.page.link/?link=https://managerapp.page.link/?link=http://installer/ce9f0396b5d6e7bdc1689591fb77381025b34932b76e98574e43f5cfa1da0c97/&apn=com.rently.app&isi=965126783&ibi=com.rently.manager">Installer Login</a>' +
+  '&ibi=com.rently.manager">https://rentlymanager.page.link/installer</a>' +
+
+  '<br/><br/>' +
+
+  'Firebase Dynamic Link Test 2<br/><a' +
+  ' href="https://rentlymanager.page.link/?link=https://rentlymanager.page.link/?link=http://www.rentlymanager.com/installer/ce9f0396b5d6e7bdc1689591fb77381025b34932b76e98574e43f5cfa1da0c97/&apn=com.rently.app&isi=965126783&ibi=com.rently.manager">Installer Login</a>' +
+
   '</body>' +
   '</html>'
 ;
